@@ -42,15 +42,16 @@ You've got to start with the HTML - after adding the components there, into CSS 
 
 ### What I learned
 
-In progress.  
+Styling isn't usually one of my strong suits - I was challenged with all of the new things I've learned with CSS over the last few months to truly style something similar to what I've seen, and I don't think I did a bad job, if I do say so myself.  
 
 ### Continued development
 
-In progress.
+More front-end projects incoming!  I'm going to be working on a few more projects in the coming weeks, and I'm excited to see what I can do with them.
 
 ### Useful resources
 
-In progress.
+- [CSS Animations](https://www.w3schools.com/css/css3_animations.asp) - got my animation instructions here!
+- [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) - I was torn between choosing block or flexbox, but I'm glad I went with flexbox in the end.
 
 ## Author
 
@@ -62,4 +63,4 @@ In progress.
 
 ## Acknowledgments
 
-In progress.
+Shout-out to [Frontend Mentor](https://www.frontendmentor.io) for the challenge!  Also, big shout-out to Leon Noel - I've been walking through the 100Devs course with him, and he's been a huge help in my learning process.  I'm excited to see what I can do with the skills I've learned so far!
